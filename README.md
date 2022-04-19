@@ -20,7 +20,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2886](https://github.com/discord/discord-api-docs/issues/2886) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. 💪 Opened PR [#2086](https://github.com/DV8FromTheWorld/JDA/pull/2086) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
 <!--END_SECTION:activity-->
 
 </details>
