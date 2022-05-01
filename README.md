@@ -20,7 +20,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2086](https://github.com/DV8FromTheWorld/JDA/pull/2086) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
+1. 🗣 Commented on [#2090](https://github.com/DV8FromTheWorld/JDA/issues/2090) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
 <!--END_SECTION:activity-->
 
 </details>
