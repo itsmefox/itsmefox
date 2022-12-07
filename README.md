@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2090](https://github.com/DV8FromTheWorld/JDA/issues/2090) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
+1. ❗️ Closed issue [#1](https://github.com/viascom/nanoid-postgres/issues/1) in [viascom/nanoid-postgres](https://github.com/viascom/nanoid-postgres)
 <!--END_SECTION:activity-->
 
 </details>
