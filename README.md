@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/viascom/nanoid-postgres/issues/1) in [viascom/nanoid-postgres](https://github.com/viascom/nanoid-postgres)
+1. 🗣 Commented on [#79](https://github.com/viascom/aluna-spring-boot-starter/issues/79) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
 <!--END_SECTION:activity-->
 
 </details>
