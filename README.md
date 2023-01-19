@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/viascom/aluna-spring-boot-starter/pull/84) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
+1. 🗣 Commented on [#31](https://github.com/mesoneer-ag/camunda-modeler-property-info-plugin/issues/31) in [mesoneer-ag/camunda-modeler-property-info-plugin](https://github.com/mesoneer-ag/camunda-modeler-property-info-plugin)
 <!--END_SECTION:activity-->
 
 </details>
