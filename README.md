@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0 - initial release](https://github.com/viascom/nanoid-kotlin/releases/tag/1.0.0) in [viascom/nanoid-kotlin](https://github.com/viascom/nanoid-kotlin)
+1. 💪 Opened PR [#456](https://github.com/ai/nanoid/pull/456) in [ai/nanoid](https://github.com/ai/nanoid)
 <!--END_SECTION:activity-->
 
 </details>
