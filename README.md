@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#456](https://github.com/ai/nanoid/pull/456) in [ai/nanoid](https://github.com/ai/nanoid)
+1. 🚀 Published release [1.1.0](https://github.com/viascom/aluna-spring-boot-starter/releases/tag/1.1.0) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
 <!--END_SECTION:activity-->
 
 </details>
