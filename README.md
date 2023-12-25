@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/viascom/aluna-spring-boot-starter/issues/160#issuecomment-1861713271) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
+1. 🎉 Merged PR [#163](https://github.com/viascom/aluna-spring-boot-starter/pull/163) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
 <!--END_SECTION:activity-->
 
 </details>
