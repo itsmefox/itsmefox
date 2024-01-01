@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#69](https://github.com/gw2-api/issues/issues/69) in [gw2-api/issues](https://github.com/gw2-api/issues)
+1. 🚀 Published release [1.1.2](https://github.com/viascom/aluna-spring-boot-starter/releases/tag/1.1.2) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
 <!--END_SECTION:activity-->
 
 </details>
