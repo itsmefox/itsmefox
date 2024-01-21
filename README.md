@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.2](https://github.com/viascom/aluna-spring-boot-starter/releases/tag/1.1.2) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
+1. 🚀 Published release [1.0.1](https://github.com/viascom/nanoid-kotlin/releases/tag/1.0.1) in [viascom/nanoid-kotlin](https://github.com/viascom/nanoid-kotlin)
 <!--END_SECTION:activity-->
 
 </details>
