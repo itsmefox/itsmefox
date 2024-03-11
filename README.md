@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/viascom/nanoid-kotlin/issues/8#issuecomment-1902601584) in [viascom/nanoid-kotlin](https://github.com/viascom/nanoid-kotlin)
+1. 🎉 Merged PR [#174](https://github.com/viascom/aluna-spring-boot-starter/pull/174) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
 <!--END_SECTION:activity-->
 
 </details>
