@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/viascom/nanoid-kotlin/issues/11#issuecomment-2007513638) in [viascom/nanoid-kotlin](https://github.com/viascom/nanoid-kotlin)
+1. 🎉 Merged PR [#13](https://github.com/viascom/nanoid-postgres/pull/13) in [viascom/nanoid-postgres](https://github.com/viascom/nanoid-postgres)
 <!--END_SECTION:activity-->
 
 </details>
