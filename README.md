@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/viascom/nanoid-postgres/pull/13) in [viascom/nanoid-postgres](https://github.com/viascom/nanoid-postgres)
+1. 🎉 Merged PR [#184](https://github.com/viascom/aluna-spring-boot-starter/pull/184) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
 <!--END_SECTION:activity-->
 
 </details>
