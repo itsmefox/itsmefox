@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#221](https://github.com/viascom/aluna-spring-boot-starter/pull/221) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
+1. ❗ Opened issue [#28](https://github.com/Gelbpunkt/gateway-proxy/issues/28) in [Gelbpunkt/gateway-proxy](https://github.com/Gelbpunkt/gateway-proxy)
 <!--END_SECTION:activity-->
 
 </details>
