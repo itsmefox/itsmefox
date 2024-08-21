@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#222](https://github.com/viascom/aluna-spring-boot-starter/pull/222) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
+1. 🚀 Published release [1.1.9](https://github.com/viascom/aluna-spring-boot-starter/releases/tag/1.1.9) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
 <!--END_SECTION:activity-->
 
 </details>
