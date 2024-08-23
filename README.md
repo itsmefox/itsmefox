@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.9](https://github.com/viascom/aluna-spring-boot-starter/releases/tag/1.1.9) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
+1. 🗣 Commented on [#28](https://github.com/Gelbpunkt/gateway-proxy/issues/28#issuecomment-2306714912) in [Gelbpunkt/gateway-proxy](https://github.com/Gelbpunkt/gateway-proxy)
 <!--END_SECTION:activity-->
 
 </details>
