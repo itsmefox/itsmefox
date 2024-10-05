@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/gw2-api/issues/issues/89#issuecomment-2366610588) in [gw2-api/issues](https://github.com/gw2-api/issues)
+1. ❌ Closed PR [#233](https://github.com/viascom/aluna-spring-boot-starter/pull/233) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
 <!--END_SECTION:activity-->
 
 </details>
