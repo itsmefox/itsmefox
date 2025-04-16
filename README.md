@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Fox 🦊</h1>
 <p align="center">
-  <strong>Kotlin Developer</strong> • <strong>Discord Bot Enthusiast</strong> • <strong>Spring Magician</strong><br>
-  Passionate about building elegant backend systems and powerful integrations.
+  <strong>Kotlin Developer</strong> • <strong>Discord App Enthusiast</strong> • <strong>Spring Magician</strong><br>
+  <i>Passionate about building elegant backend systems and powerful integrations.</i>
 </p>
 
 <br><br>
