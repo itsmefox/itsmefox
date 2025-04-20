@@ -80,7 +80,7 @@
   <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.3.1](https://github.com/viascom/aluna-spring-boot-starter/releases/tag/1.3.1) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
+1. 🎉 Merged PR [#271](https://github.com/viascom/aluna-spring-boot-starter/pull/271) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
 <!--END_SECTION:activity-->
 
 </details>
