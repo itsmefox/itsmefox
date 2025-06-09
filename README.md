@@ -80,7 +80,7 @@
   <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/viascom/ansible-role-certbot/pull/1) in [viascom/ansible-role-certbot](https://github.com/viascom/ansible-role-certbot)
+1. 🗣 Commented on [#286](https://github.com/viascom/aluna-spring-boot-starter/pull/286#issuecomment-2956444800) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
 <!--END_SECTION:activity-->
 
 </details>
