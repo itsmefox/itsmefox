@@ -80,7 +80,7 @@
   <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.4.0](https://github.com/viascom/aluna-spring-boot-starter/releases/tag/1.4.0) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
+1. 💪 Opened PR [#614](undefined) in [fwdekker/intellij-randomness](https://github.com/fwdekker/intellij-randomness)
 <!--END_SECTION:activity-->
 
 </details>
