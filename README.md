@@ -80,7 +80,7 @@
   <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#614](https://github.com/fwdekker/intellij-randomness/pull/614#issuecomment-3475182939) in [fwdekker/intellij-randomness](https://github.com/fwdekker/intellij-randomness)
+1. 🗣 Commented on [#614](https://github.com/fwdekker/intellij-randomness/pull/614#issuecomment-3580563959) in [fwdekker/intellij-randomness](https://github.com/fwdekker/intellij-randomness)
 <!--END_SECTION:activity-->
 
 </details>
