@@ -80,7 +80,7 @@
   <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#614](https://github.com/fwdekker/intellij-randomness/pull/614#issuecomment-3580563959) in [fwdekker/intellij-randomness](https://github.com/fwdekker/intellij-randomness)
+1. ❌ Closed PR [#293](undefined) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
 <!--END_SECTION:activity-->
 
 </details>
