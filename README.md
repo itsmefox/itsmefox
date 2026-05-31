@@ -80,7 +80,7 @@
   <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#353](https://github.com/viascom/aluna-spring-boot-starter/pull/353) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
+1. 🚀 Published release [1.5.0](https://github.com/viascom/aluna-spring-boot-starter/releases/tag/1.5.0) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
 <!--END_SECTION:activity-->
 
 </details>
