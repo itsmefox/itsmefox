@@ -80,7 +80,7 @@
   <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Invisi/gw2-fotm-instabilities/pull/4#issuecomment-4254312589) in [Invisi/gw2-fotm-instabilities](https://github.com/Invisi/gw2-fotm-instabilities)
+1. 💪 Opened PR [#353](https://github.com/viascom/aluna-spring-boot-starter/pull/353) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
 <!--END_SECTION:activity-->
 
 </details>
