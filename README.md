@@ -80,7 +80,7 @@
   <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.5.0](https://github.com/viascom/aluna-spring-boot-starter/releases/tag/1.5.0) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
+1. ℹ️ Labeled PR [#37](https://github.com/viascom/nanoid-kotlin/pull/37) in [viascom/nanoid-kotlin](https://github.com/viascom/nanoid-kotlin)
 <!--END_SECTION:activity-->
 
 </details>
