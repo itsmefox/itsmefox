@@ -80,7 +80,7 @@
   <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/viascom/nanoid-kotlin/pull/39) in [viascom/nanoid-kotlin](https://github.com/viascom/nanoid-kotlin)
+1. 🎉 Merged PR [#39](https://github.com/viascom/nanoid-kotlin/pull/39) in [viascom/nanoid-kotlin](https://github.com/viascom/nanoid-kotlin)
 <!--END_SECTION:activity-->
 
 </details>
