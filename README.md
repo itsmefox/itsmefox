@@ -80,7 +80,7 @@
   <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.0.1](https://github.com/viascom/nanoid-kotlin/releases/tag/2.0.1) in [viascom/nanoid-kotlin](https://github.com/viascom/nanoid-kotlin)
+1. ❗ Opened issue [#7364](https://github.com/superset-sh/superset/issues/7364) in [superset-sh/superset](https://github.com/superset-sh/superset)
 <!--END_SECTION:activity-->
 
 </details>
