@@ -80,7 +80,7 @@
   <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7364](https://github.com/superset-sh/superset/issues/7364) in [superset-sh/superset](https://github.com/superset-sh/superset)
+1. 🎉 Merged PR [#355](https://github.com/viascom/aluna-spring-boot-starter/pull/355) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
 <!--END_SECTION:activity-->
 
 </details>
