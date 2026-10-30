@@ -80,7 +80,7 @@
   <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#189](https://github.com/viascom/spring-boot-starter-maintenance/pull/189) in [viascom/spring-boot-starter-maintenance](https://github.com/viascom/spring-boot-starter-maintenance)
+1. 🎉 Merged PR [#55](https://github.com/viascom/nanoid-kotlin/pull/55) in [viascom/nanoid-kotlin](https://github.com/viascom/nanoid-kotlin)
 <!--END_SECTION:activity-->
 
 </details>
