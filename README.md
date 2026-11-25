@@ -80,7 +80,7 @@
   <summary><h3>:zap: Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#356](https://github.com/viascom/aluna-spring-boot-starter/pull/356) in [viascom/aluna-spring-boot-starter](https://github.com/viascom/aluna-spring-boot-starter)
+1. 🎉 Merged PR [#7](https://github.com/viascom/openfeature-editor/pull/7) in [viascom/openfeature-editor](https://github.com/viascom/openfeature-editor)
 <!--END_SECTION:activity-->
 
 </details>
